@@ -1,0 +1,10 @@
+{
+  "name": "IntroToNPM",
+  "version": "1.0.0",
+  "dependencies": {
+    "knock-knock-jokes": "^1.7.0"
+  },
+  "devDependencies": {
+    "cat-me": "^1.0.3"
+  }
+}
